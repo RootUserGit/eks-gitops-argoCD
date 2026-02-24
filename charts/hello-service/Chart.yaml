@@ -1,0 +1,7 @@
+apiVersion: v2
+name: hello-service
+description: Minimal Helm chart for first GitOps deployment (hello-service)
+type: application
+version: 0.1.0
+appVersion: "1.0"
+maintainers: []

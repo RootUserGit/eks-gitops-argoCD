@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: httpd
-  tag: stable
+  tag: latest
   pullPolicy: IfNotPresent
 
 service:
